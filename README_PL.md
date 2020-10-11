@@ -1,5 +1,5 @@
 # przypominacz.py
-Program ** Przypominacz ** przeznaczony dla dzieci i młodzieży. Zadaniem programu jest wyświetlanie planu lekcji, zajęć dodatkowych, oraz przypominanie o ważnych przypomina o ważnych wydarzeniach: imieninach, urodzinach itp. 
+Program ***Przypominacz*** przeznaczony dla dzieci i młodzieży. Zadaniem programu jest wyświetlanie planu lekcji, zajęć dodatkowych, oraz przypominanie o ważnych przypomina o ważnych wydarzeniach: imieninach, urodzinach itp. 
 
 Do poprawnego działania programy niezbędne są pakiety:
 * Python3
@@ -22,9 +22,9 @@ Zachęcam do pobrania programu i testowania. Wystarczy skopiować kod do notatni
 Jeśli masz ochotę wspomóc mnie finansowo, to bardzo Ci z góry dziękuję. Zbieram na nowszy komputer z większym monitorem, który znacznie ułatwi mi naukę.
 Chciałbym też założyć stronę z której będzie można pobietać moje programy oraz przeczytać o nowościach w napisanych dotąd programów. Niestety koszt takiego serwera oraz jego utrzymanie nie jest mały. Z mojej renty nie stać mnie na jego utrzymywanie.
 
-**Dotację możesz przekazać w złotówkach, Bitcoin-ach lub Ethereum**
+Dotację możesz przekazać w złotówkach, Bitcoin-ach lub Ethereum
 
-Konto MBank: 52 1140 2004 0000 3202 7752 4865 z dopiskiem "Dotacja"
+Konto MBank: 52 1140 2004 0000 3202 7752 4865 z dopiskiem ***Dotacja***
 BTC: 1JMPAHeHFazAgEUHAiamcQSq5LgSiFv32K
 ETH: 0x80778D7836E923e1D672337461938807F3fa4Df8
 
