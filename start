@@ -6,9 +6,8 @@ from tkinter import ttk
 from time import strftime
 from pathlib import Path
 from tkinter import Menu
-from PIL import Image, ImageTk
 import sqlite3
-import datetime as dt  # dla obsługi daty i czasu
+import datetime as dt
 
 
 class Program:
