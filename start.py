@@ -1471,6 +1471,16 @@ class TworzenieBaz:
         linia1 = tk.Label(okno, text="Baza przypomnień - utworzono!!!",
                           font=("Arial", 12), fg="blue")
         linia1.place(x=20, y=20)
+        
+        c.execute("""CREATE TABLE pamietnik (
+                id INTEGER PRIMARY KEY ASC,
+                data text NOT NULL,
+                dzien_tyg text NOT NULL,
+                wpis text NOT NULL);""")
+        linia3 = tk.Label(okno, text = "Baza pamiętnik - utworzono!!!",
+                          font=("Arial", 12), fg ="blue")
+        linia3.place(x=20, y=80)
+        
         c.execute(
             """CREATE TABLE plan_lekcji (
                 id INTEGER PRIMARY KEY ASC,
